@@ -1,0 +1,13 @@
+*{
+    background-color: rgb(246, 223, 240);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#hd{
+    font-size: 3em;
+}
+#sb{
+    background-color: rgb(142, 174, 241);
+}
+div{
+   text-align: center; 
+}
