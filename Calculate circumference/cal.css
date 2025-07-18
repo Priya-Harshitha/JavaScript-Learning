@@ -1,0 +1,17 @@
+*{
+    background-color: rgb(237, 232, 224);
+    font-family:'Courier New', Courier, monospace;
+}
+h1{
+    font-size: 3em;
+    margin-top: 200px;
+}
+#sb{
+    background-color: rgb(142, 174, 241);
+}
+div{
+   text-align: center; 
+}
+#ma{
+    font-weight: bold;;
+}
