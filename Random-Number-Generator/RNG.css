@@ -1,0 +1,17 @@
+body{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    background-color: rgb(187, 215, 215);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#btn{
+    font-size: 2.5em;
+    padding: 5px  20px;
+    border-radius: 5px;
+}
+#num{
+    font-size: 3em;
+}
