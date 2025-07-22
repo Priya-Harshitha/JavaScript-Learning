@@ -12,7 +12,7 @@ Welcome to **Learn-js-by-build** – a collection of beginner-friendly JavaScrip
 - 🎲 **Random Number Generator** – Generate a random number within a given range.
 - 🔄 **Shuffle Cards** – Randomly shuffle a set of cards (or items).
 - 📥 **User Input Demo** – Practice with collecting and using input from users.
-- ✅ **Checker** – A simple boolean condition checker based on user values.
+- ✅ **Checker** – Displays subscription status and selected payment method using checkbox and radio buttons.
 
 > More projects coming soon!
 
