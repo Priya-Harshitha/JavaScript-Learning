@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#box{
+ border: 2px solid black;
+ background-color: greenyellow;
+ font-size: 2rem;
+ font-weight: bold;
+ width: 220px;
+ display: flex;
+ text-align: center;
+ align-items: center;
+ height: 200px;
+}
